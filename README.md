@@ -2,7 +2,7 @@
 **Inventory Management Web Application**
 
 _____________________________________
-**Using this app you can :**
+**USING THIS APP YOU CAN :**
 * *Easly get products details using each product code*
 * *Add illimits products*
 * *Edit and delete products*
@@ -12,19 +12,20 @@ _____________________________________
 
 
 _____________________________________
-**How to use**
+**HOW TO USE:**
 1. *Download the files*
 2. *Upload it in a server*
 3. *Modify and Upload the database* 
 4. *Modify the connection file to the database `include/conn.php`*
 5. *Done (Default Password : 11200)*
 _____________________________________
-**Contact**
+**CONTACT**
 * *[Facebook](https://www.facebook.com/LAKHDERM/)*
 * *[Instagram](https://www.instagram.com/pouyraaz/)*
 * *Phone Number : +212 639430035*
 * *[Personal website](https://mohamedlakhder.xyz/)*
 _____________________________________
+**TAKE A LOOK:**
 
 ![222](https://user-images.githubusercontent.com/84038605/117909766-dbfd6a00-b2a8-11eb-8b13-580dd434c780.PNG)
 ![111](https://user-images.githubusercontent.com/84038605/117909771-de5fc400-b2a8-11eb-9013-ff1b94650aa9.PNG)
